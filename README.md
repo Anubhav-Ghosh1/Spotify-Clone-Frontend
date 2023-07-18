@@ -19,7 +19,7 @@ This repository contains a front-end project that aims to recreate the user inte
 
 ### Getting Started
 To run the project locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/your-username/spotify-web-version.git`
+1. Clone this repository: `git clone https://github.com/Anubhav-Ghosh1/spotify-web-version.git`
 2. Navigate to the project directory: `cd spotify-web-version`
 3. Open the `index.html` file in your preferred web browser.
 
